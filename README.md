@@ -13,7 +13,7 @@
 ### 👨‍💻 Sobre
 Atualmente cursando o 2º período de Analise e desenvolvimento de sistemas na UNICID. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Análise de Dados.
  
-* **Habilidades Técnicas:** [SQL].
+* **Habilidades Técnicas:** ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
 * **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
  
