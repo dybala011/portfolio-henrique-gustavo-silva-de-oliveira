@@ -11,7 +11,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 2º período de Analise e desenvolvimento de sistemas na UNICID. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Análise de Dados.
+Atualmente cursando o 2º período de Analise e desenvolvimento de sistemas na Universidade Cidade de São Paulo (UNICID). Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Análise de Dados.
  
 * **Habilidades Técnicas:** SQL, Canva, HTML5, Excel
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
