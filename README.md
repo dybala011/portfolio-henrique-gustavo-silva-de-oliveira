@@ -44,7 +44,7 @@ Atualmente cursando o 2º período de Analise e desenvolvimento de sistemas na U
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Desenvolvimento App Videoconferência Manus AI Jitsi** | Projeto de Criação de um App interativo com acesso a videoconferência, estruturado pelo Manus. | [Ver Projeto](https://github.com/dybala011/portfolio-henrique-gustavo-silva-de-oliveira/tree/main/SM9%20-%20Desenvolvimento%20de%20App%20de%20Videoconfer%C3%AAncia%20com%20Manus%20AI%20e%20Jitsi)|
-| **Ai Studio** | Desenvolvimento de um Website repositivo e moderno, concebido inteiramente atraves de metodologias avançadas de Engenharia de Prompt aplicadas no Google AI Studio. | [Ver Projeto](https://github.com/dybala011/portfolio-henrique-gustavo-silva-de-oliveira/tree/main/SM9%20-%20Desenvolvimento%20de%20App%20de%20Videoconfer%C3%AAncia%20com%20Manus%20AI%20e%20Jitsi)|
+| **Ai Studio** | Desenvolvimento de um Website repositivo e moderno, concebido inteiramente atraves de metodologias avançadas de Engenharia de Prompt aplicadas no Google AI Studio. | [Ver Projeto](https://github.com/dybala011/portfolio-henrique-gustavo-silva-de-oliveira/tree/main/projeto-ai-studio)|
 ---  
  
 ### 🏗 Estrutura do Repositório
