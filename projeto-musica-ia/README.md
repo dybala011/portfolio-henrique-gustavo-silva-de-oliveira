@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)
  
 ## 📝 Descrição do Projeto
-Este projeto explora a intersecção entre criatividade humana e Inteligência Artificial. Utilizando técnicas de **RAG (Retrieval-Augmented Generation)** através do Gemini Gems, foi criado um assistente especializado na análise lírica de [Felipe Ret]. O objetivo final foi a produção de um EP com 5 faixas inéditas, cujas letras foram geradas pela IA e a produção musical realizada via Suno AI.
+Este projeto explora a intersecção entre criatividade humana e Inteligência Artificial. Utilizando técnicas de **RAG (Retrieval-Augmented Generation)** através do Gemini Gems, foi criado um assistente especializado na análise lírica de Felipe Ret. O objetivo final foi a produção de um EP com 5 faixas inéditas, cujas letras foram geradas pela IA e a produção musical realizada via Suno AI.
  
 ## 🛠️ Tecnologias Utilizadas
 * **Gemini Gems:** Criação de base de conhecimento e geração de letras.
@@ -13,17 +13,17 @@ Este projeto explora a intersecção entre criatividade humana e Inteligência A
 * **GitHub:** Documentação e versionamento do projeto.
  
 ## 🚀 Assistente Personalizado
-O assistente (Gems) utilizado para modelagem das letras pode ser acessado através do link abaixo:
+O assistente Gems utilizado para modelagem das letras pode ser acessado através do link abaixo:
 > [Link para o meu Gemini Gems](https://gemini.google.com/gem/7e56c719ebfd)
  
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | [Vela Erótica 01] | [rap/trap] | [Arquivo MP3](c:\Users\HENRIQUEGUSTAVO\Desktop\projeto-musica-ia\Vela Erótica.mp3) |
-| 02 | [Mira Laser 02] | [rap/trap] | [Arquivo MP3](c:\Users\HENRIQUEGUSTAVO\Desktop\projeto-musica-ia\Mira Laser.mp3) |
-| 03 | [Neom Asfalto 03] | [rap/trap] | [Arquivo MP3](c:\Users\HENRIQUEGUSTAVO\Desktop\projeto-musica-ia\Neon Asfalto.mp3) |
-| 04 | [Cabeça no Ceu 04] | [rap/trap] | [Arquivo MP3](c:\Users\HENRIQUEGUSTAVO\Desktop\projeto-musica-ia\Cabeça no Céu.mp3) |
-| 05 | [Cifrao no Pescoço 05] | [rap/trap] | [Arquivo MP3](c:\Users\HENRIQUEGUSTAVO\Desktop\projeto-musica-ia\Cifrão no Pescoço.mp3) |
+| 01 | Vela Erótica 01 | rap/trap | https://suno.com/s/G1BuC9zXVC9WSWd0 |
+| 02 | Mira Laser 02 | rap/trap | https://suno.com/s/DfwHX7LUWabtkaZl |
+| 03 | Neom Asfalto 03 | rap/trap | https://suno.com/s/h651tt2ZoGtznoHr |
+| 04 | Cabeça no Ceu 04 | rap/trap | https://suno.com/s/2Oh6lycHVDwN4e17 |
+| 05 | Cifrao no Pescoço 05 | rap/trap | https://suno.com/s/hj3G8pwBEoU1x4R0 |
  
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
