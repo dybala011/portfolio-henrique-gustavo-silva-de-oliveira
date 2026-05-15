@@ -1,4 +1,4 @@
-# Projeto: Análise de Viés em Classificação Visual de IA
+# Projeto: Laboratorio de Classificação Visual
 
 Este repositório apresenta um estudo sobre como o viés de dados pode comprometer a eficácia de sistemas de Inteligência Artificial, utilizando como exemplo um modelo de detecção de calçados falsificados.
 
