@@ -55,5 +55,34 @@ Atualmente cursando o 2º período de Analise e desenvolvimento de sistemas na U
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
  
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+Portfolio_Henrique_Gustavo_Silva_de_Oliveira/
+│
+├── README.md  ← principal
+│
+├── SM1_Corrida_Do_Prompt/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── SM2_Laboratorio_Classificação_Visual/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── SM3_Batalhas_Modelos_Engenharia_Prompt/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── SM4_Engenharia_Reserva/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── SM5_Projeto_AI_Studio/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── SM7_Desenvolvimento_App_Videoconferência_Manus_AI_Jitsi/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── SM8_Composição_Musical_Assistida_Inteligência_Artificial/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
