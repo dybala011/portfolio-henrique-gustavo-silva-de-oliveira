@@ -1,6 +1,6 @@
 # Projeto: Laboratorio de Classificação Visual
 
-Este repositório apresenta um estudo sobre como o viés de dados pode comprometer a eficácia de sistemas de Inteligência Artificial, utilizando como exemplo um modelo de detecção de calçados falsificados.
+Projeto acadêmico utilizando o Teachable Machine para criar um modelo de visão computacional capaz de distinguir um modelo de detecção de calçados falsificados.
 
 ## 🧐 O Problema: Mecanismo do Viés
 
